@@ -3,10 +3,6 @@
 -- place: BloxStrike (114234929420007)
 -- ============================================================
 
-local ALLOWED_PLACE_ID = 114234929420007
-if game.PlaceId ~= ALLOWED_PLACE_ID then
-    return
-end
 
 -- ──────────────────────────────────────────────
 -- SERVICES
